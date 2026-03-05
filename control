@@ -1,0 +1,9 @@
+Package: test
+Name: test
+Version: 0.0.1
+Description: An awesome MobileSubstrate tweak!
+Maintainer: judah
+Author: judah
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Depends: ellekit (>= 1.0)
